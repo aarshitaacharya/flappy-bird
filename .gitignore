@@ -1,0 +1,35 @@
+# ========== Unity Generated ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# ========== OS Generated ==========
+.DS_Store
+Thumbs.db
+
+# ========== Visual Studio / Mono ==========
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ========== Others ==========
+*.apk
+*.aab
+*.exe
+*.app
+*.xcodeproj
